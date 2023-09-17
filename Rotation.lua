@@ -1,6 +1,6 @@
 -- Growtopia Rotation Script v1.8.9
 -- If you need any help with item ids you can go to https://github.com/Edinbo/Growtopia_IDList/blob/main/itemid.txt
--- also if you need any help with pack names you can go to https://github.com/Edinbo/Growtopia_IDList/blob/main/packid.txt aswell
+-- also if you need any help with pack names you can go to https://github.com/Edinbo/Growtopia_IDList/blob/main/packnames.txt aswell
 
 Bot = {}
 
