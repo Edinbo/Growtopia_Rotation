@@ -1,6 +1,6 @@
 -- Growtopia Rotation Script v1.8.9
 -- If you need any help with item ids you can go to https://github.com/Edinbo/Growtopia_IDList/blob/main/itemid.txt
--- also if you need any help with pack ids you can go to https://github.com/Edinbo/Growtopia_IDList/blob/main/packid.txt aswell
+-- also if you need any help with pack names you can go to https://github.com/Edinbo/Growtopia_IDList/blob/main/packid.txt aswell
 
 Bot = {}
 
@@ -57,7 +57,7 @@ root = false -- root
 looping = true -- loop after finishing worlds
 
 pack = "World Lock [2000 Gems]" -- this is title for webhook you dont need to change this
-packList = {242} -- id for pack to buy (this is world lock id)
+packList = {242} -- id (this is world lock id)
 packName = "world_lock" -- pack name
 minimumGem = 2000 -- minimum gem to start buying (you can set this to 20k and buy when you have 20k gems in your account)
 packPrice = 2000 -- pack price
