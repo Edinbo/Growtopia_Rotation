@@ -1,1 +1,1 @@
-world_name = World Lock store pack
+World Lock store pack = world_name 
